@@ -16,13 +16,13 @@ Table of Contents
 .. toctree::
     :maxdepth: 1
 
-    Overview <overview>
-    Concept <concept>
-    Features <features>
-    Context <context>
-    Examples <examples>
-    Modules <modules>
-    Contribute <contribute>
+    Overview 概述 <overview>
+    Concept 概念 <concept>
+    Features 特性 <features>
+    Context 上下文 <context>
+    Examples 示例 <examples>
+    Modules 模块 <modules>
+    Contribute 贡献 <contribute>
 
 Indices and Tables
 ==================
